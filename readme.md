@@ -1,3 +1,6 @@
+Here is the fully corrected and properly formatted **`README.md`** text. It fixes the markdown code block wrapping for the clone command and puts `cd railrisk` on its own separate line:
+
+```markdown
 # RailRisk 🚂
 
 **RailRisk** is an engine and CLI utility designed for Indian Railways transit predictive risk analysis. It provides delay volatility calculations ($\Delta \text{delay} / \Delta t$), dynamic risk scoring via a secure AST-based sandbox, resilience through SQLite offline caching, and network retry handling.
@@ -14,15 +17,14 @@
 ### Step-by-Step Installation
 
 1. **Clone the Repository:**
-   ```
+   ```powershell
    git clone [https://github.com/purveshvasantwagh-alt/railrisk.git](https://github.com/purveshvasantwagh-alt/railrisk.git)
    cd railrisk
 
 ```
 
 2. **Set Up a Virtual Environment (Recommended):**
-``` 
- 
+```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
@@ -30,7 +32,7 @@ python -m venv .venv
 
 
 3. **Install Dependencies:**
-```
+```powershell
 pip install requests tenacity pydantic pytest
 
 ```
@@ -144,13 +146,6 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 ---
 
-### How to Save and Push to GitHub:
 
-After replacing the contents of your `readme.md` file with the block above, run these commands in your PowerShell terminal:
-
-```powershell
-git add readme.md
-git commit -m "Fix markdown formatting and git clone code block"
-git push origin main --force-with-lease
 
 ```
