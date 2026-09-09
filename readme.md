@@ -14,14 +14,15 @@
 ### Step-by-Step Installation
 
 1. **Clone the Repository:**
-   ```powershell
+   ```
    git clone [https://github.com/purveshvasantwagh-alt/railrisk.git](https://github.com/purveshvasantwagh-alt/railrisk.git)
    cd railrisk
 
 ```
 
 2. **Set Up a Virtual Environment (Recommended):**
-```powershell
+``` 
+ 
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
@@ -29,7 +30,7 @@ python -m venv .venv
 
 
 3. **Install Dependencies:**
-```powershell
+```
 pip install requests tenacity pydantic pytest
 
 ```
