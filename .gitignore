@@ -1,0 +1,30 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Local SQLite databases
+*.db
+*.sqlite3
+railrisk.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables & local secrets
+.env
+.env.local
+
+# IDE & OS specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
