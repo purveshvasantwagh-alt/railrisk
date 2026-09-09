@@ -16,8 +16,9 @@
 
 1. **Clone the Repository:**
    ```powershell
-   git clone [https://github.com/purveshvasantwagh-alt/railrisk.git](https://github.com/purveshvasantwagh-alt/railrisk.git)
-   cd railrisk
+
+git clone https://github.com/purveshvasantwagh-alt/railrisk.git
+cd railrisk
 
 ```
 
