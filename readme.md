@@ -1,6 +1,5 @@
-Here is the fully corrected and properly formatted **`README.md`** text. It fixes the markdown code block wrapping for the clone command and puts `cd railrisk` on its own separate line:
 
-```markdown
+``
 # RailRisk 🚂
 
 **RailRisk** is an engine and CLI utility designed for Indian Railways transit predictive risk analysis. It provides delay volatility calculations ($\Delta \text{delay} / \Delta t$), dynamic risk scoring via a secure AST-based sandbox, resilience through SQLite offline caching, and network retry handling.
