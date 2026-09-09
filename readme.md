@@ -132,10 +132,6 @@ The test suite validates:
 * AST sandbox execution and security blocking of forbidden constructs (`ast.Call`, `ast.Import`).
 * NTES Provider fallback to local SQLite snapshots during mocked network outages.
 
----
-
-
-
 
 ---
 
