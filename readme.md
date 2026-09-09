@@ -16,8 +16,8 @@
 
 1. **Clone the Repository:**
    ```
-   git clone [https://github.com/purveshvasantwagh-alt/railrisk.git](https://github.com/purveshvasantwagh-alt/railrisk.git)
-   cd rail
+   git clone https://github.com/purveshvasantwagh-alt/railrisk.git
+   cd railrisk
 
 
 2. **Set Up a Virtual Environment (Recommended):**
