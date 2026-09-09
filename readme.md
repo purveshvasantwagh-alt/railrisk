@@ -1,4 +1,4 @@
-```markdown
+
 # RailRisk 🚂
 
 **RailRisk** is an engine and CLI utility designed for Indian Railways transit predictive risk analysis. It provides delay volatility calculations ($\Delta \text{delay} / \Delta t$), dynamic risk scoring via a secure AST-based sandbox, resilience through SQLite offline caching, and network retry handling.
